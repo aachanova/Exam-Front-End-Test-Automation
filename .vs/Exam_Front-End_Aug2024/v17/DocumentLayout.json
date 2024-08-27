@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aachanova\\Documents\\0_Front-End-Automation-July-2024\\Labs-and-Ex\\Exam_Front-End_Test_Automation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{020190F0-B89E-4942-8B33-7E2C86BC3BCE}|Exam_Front-End_Automation\\Exam_Front-End_Automation.csproj|c:\\users\\aachanova\\documents\\0_front-end-automation-july-2024\\labs-and-ex\\exam_front-end_test_automation\\exam_front-end_automation\\foodyapptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020190F0-B89E-4942-8B33-7E2C86BC3BCE}|Exam_Front-End_Automation\\Exam_Front-End_Automation.csproj|solutionrelative:exam_front-end_automation\\foodyapptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodyAppTests.cs",
+              "DocumentMoniker": "C:\\Users\\aachanova\\Documents\\0_Front-End-Automation-July-2024\\Labs-and-Ex\\Exam_Front-End_Test_Automation\\Exam_Front-End_Automation\\FoodyAppTests.cs",
+              "RelativeDocumentMoniker": "Exam_Front-End_Automation\\FoodyAppTests.cs",
+              "ToolTip": "C:\\Users\\aachanova\\Documents\\0_Front-End-Automation-July-2024\\Labs-and-Ex\\Exam_Front-End_Test_Automation\\Exam_Front-End_Automation\\FoodyAppTests.cs",
+              "RelativeToolTip": "Exam_Front-End_Automation\\FoodyAppTests.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:47:38.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
